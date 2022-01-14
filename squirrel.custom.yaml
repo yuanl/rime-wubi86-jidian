@@ -122,3 +122,9 @@ patch:
 #      ascii_mode: true # 对应的选项
 #    co.zeit.hyper: # 程序名
 #      ascii_mode: true # 对应的选项
+    com.apple.Spotlight:
+      ascii_mode: true
+    com.googlecode.iterm2:
+      ascii_mode: true
+    org.gnu.Emacs:
+      ascii_mode: true
