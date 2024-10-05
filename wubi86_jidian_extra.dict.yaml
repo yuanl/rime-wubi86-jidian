@@ -280,6 +280,8 @@ Ninja650	ninj
 死侍	gqwf	30
 五月槐花香	gest
 变相怪杰	ysns
+加勒比海盗	laxu
+漫长的季节	itra
 
 ## 歌手
 谢春花	ydaw
@@ -315,6 +317,8 @@ Ninja650	ninj
 郭顶	ybsd
 麻园诗人	ylyw	20
 五月天	gegd
+毛不易	tgjq	30
+刘烨溦	yoim
 
 ## 演员
 周韵	mfuj
@@ -338,6 +342,8 @@ Ninja650	ninj
 秦岚	dwmm	5
 于和伟	gtwf
 王子文	gbyy
+任素汐	wgiq
+范伟	aiwf
 
 ## 歌曲
 寄居蟹	pnqe
@@ -351,6 +357,7 @@ Ninja650	ninj
 千千阙歌	ttus
 依然范特西	wqas	20
 范特西	atsg	20
+祝融	pygk
 
 ## 通用短语
 一两个月	ggwe
@@ -390,7 +397,7 @@ U盘	utel	20
 逢集	tdwy
 煎包	ueqn
 守岁	pfmq
-烤串	ofkk
+烤串	ofkk	30
 笑死	ttgq
 医保卡	awhh
 社保卡	pwhh
@@ -1291,6 +1298,48 @@ Adobe	adob	20
 折纸	rrxq
 氢气	rnrn	25
 干锅	fgqk
+万险	dnbw
+千险	tfbw
+划动	ajfc	20
+续租	xfte
+蹊跷	khkh	25
+永无	ynfq	25
+伤情	wtng	20
+金刚狼	qmqt	20
+迭代	rwwa	20
+中国人	klww
+赢了	ynbn	5
+圆心	lkny	20
+追兵	wnrg	5
+两截	gmfa
+测点	imhk
+CCTV	cctv
+过过瘾	ffub
+辅助线	lexg
+速干	gkfg	20
+°	qeya
+参考线	cfxg	20
+蛋仔	nhwb
+团圆饭	llqn
+减速慢行	ugnt
+指套	rxdd
+甘蓝菜	aaae
+刺鼻	gmth	20
+汗液	ifiy	45
+出息	bmth	15
+抱死	rqgq	20
+MiyooA30	miyo
+缓动	xefc	15
+幸福感	fpdg
+大美女	duvv
+死要面子活爱罪	gsdl
+残影	gqjy
+期朌	adew
+侧脸	wmew
+偏食	wywy	55
+遮光罩	yilh
+奇了怪了	dbnb
+站酷	uhsg
 
 ## 软件名
 懂车帝	nlup
@@ -1304,6 +1353,8 @@ Adobe	adob	20
 JetBrains	jetb	10
 PyCharm	pych	10
 Github	gith	100
+滴嗒	iuka
+WebStorm	webs
 
 ## 品牌
 美特斯邦威	utad
@@ -1362,6 +1413,8 @@ Ulanzi	ulan
 赛腾	pfeu	20
 云腾	fceu
 斯莫格	aast
+玛赤佩	gfwm	20
+斯缇诗	axyf	20
 
 ## 区域
 莒县	akeg
@@ -1407,6 +1460,7 @@ Ulanzi	ulan
 幽门螺旋杆菌	xuja
 静脉曲张	gemx
 曲张	maxt
+渐冻症	iuug	20
 
 ## emoji动物
 🐶	qtqk		狗
@@ -1763,6 +1817,7 @@ uniapp	unia
 AM	am
 Kotlin	kot
 ElementUI	elem
+码流	dciy
 
 ## 物联网
 通断	ceon
@@ -1784,12 +1839,7 @@ ElementUI	elem
 微模块	tsfn	100
 逆变器	uykk
 智图	tdlt
-
-## 小吃
-蒸饺	abqn
-米村拌饭	osrq
-拌饭	ruqn	20
-犟骨头	xmud	20
+暖通	jece
 
 ## 口语
 姐们	vewu	100
@@ -1850,3 +1900,28 @@ ElementUI	elem
 三脚架	delk	20
 柔光箱	cits	20
 长焦	tawy
+
+## 运动员
+樊振东	srai
+马龙	cndx
+张继科	xxtu	5
+王楚钦	gsqq	5
+陈梦	bass	5
+孙颖莎	bxai	5
+许昕	ytjr	5
+丁宁	sgps	5
+朱雨玲	rfgw	5
+张怡宁	xnps	5
+刘国梁	yliv	5
+孔令辉	bwiq	5
+邓亚萍	cgai	5
+全红婵	wxvu
+二手房	fryn
+
+## 食品
+蒸饺	abqn
+米村拌饭	osrq
+拌饭	ruqn	20
+犟骨头	xmud	20
+苦菊	adaq	20
+沙拉酱	iruq	20
