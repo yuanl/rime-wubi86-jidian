@@ -36,7 +36,7 @@ patch:
       corner_radius: 5                          # 候选框圆角大小
 
       font_point: 18                            # 字体大小 - 候选
-#      font_face: PingFang SC Semibold           # 字体 - 候选文字
+      font_face: Source Han Serif SC Medium     # 字体 - 候选文字
 
       line_spacing: 5                          # horizontal 为 false 时，上下候选的间隔大小
       base_offset: 0                           # 文字基线调整
